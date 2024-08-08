@@ -1,3 +1,0 @@
-G:/code/Threadpool/build/CMakeFiles/ThreadPoolTest.dir
-G:/code/Threadpool/build/CMakeFiles/edit_cache.dir
-G:/code/Threadpool/build/CMakeFiles/rebuild_cache.dir
